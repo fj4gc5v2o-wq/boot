@@ -65,7 +65,7 @@ while True:
                     text = msg.get("text", "")
                     
                     if text.startswith("/start"):
-                        send_message(chat_id, "🎵 أرسل رابط تيك توك للتحميل \n instagram : 5r5_4 \n tiktok : 5r5_9")
+                        send_message(chat_id, "🎵 أرسل رابط تيك توك للتحميل \n instagram : 5r5_4 \n tiktok : 5r5_9 \n telegram : @rrr5_4")
                     
                     elif "tiktok.com" in text:
                         send_message(chat_id, "⏳ جاري التحميل...")
